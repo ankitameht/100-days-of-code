@@ -33,7 +33,7 @@ I referred the following:
 
 **Link to work:** https://github.com/ankitameht/image_classification
 
-### Day 2: August 17, 2018 (Udacity Course of AI For Trading)
+### Day 2: August 18, 2018 (Udacity Course of AI For Trading)
 ##### Now that I have finished one project. I was given an opportunity to learn at Udacity. I have joined the course AI for Trading. My current work profile is Machine Learnig Engineer at FactSet Systesm India Pvt Ltd. My regular work involves looking at financial data and working with them to provide business solution. AI For Trading course is my attempt to learn more about financial data and working on them using AI. 
 
 **Today's Progress**: I have finished a project (small but was a good learning experience) called Trading with Momentum.
